@@ -2,6 +2,12 @@
 
 Scrum 介紹互動遊戲
 
+## Demo
+https://ivy-ho.github.io/Scrum-challenge/ 
+
+## 設計稿
+https://2022.thef2e.com/users/12061549261454740001 
+
 ## 系統說明
 - Node.js 版本: v14.15.1
 - 運行方式使用 : `yarn install` >> `yarn serve`

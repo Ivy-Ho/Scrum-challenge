@@ -1,4 +1,5 @@
 module.exports = {
+  publicPath: "/Scrum-challenge/",
   css: {
     loaderOptions: {
       sass: {
