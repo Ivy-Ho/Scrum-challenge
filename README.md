@@ -1,24 +1,18 @@
-# the-f2e-week3-2022
+# The F2E Week3 : Scrum Interactive Game
 
-## Project setup
-```
-yarn install
-```
+Scrum 介紹互動遊戲
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## 系統說明
+- Node.js 版本: v14.15.1
+- 運行方式使用 : `yarn install` >> `yarn serve`
 
-### Compiles and minifies for production
-```
-yarn build
-```
 
-### Lints and fixes files
-```
-yarn lint
-```
+## 使用技術
+- Vue Cli
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 第三方服務
+- vuedraggable
+- gsap
+
+## 完成度
+- 2022/11/27 : 只完成至任務一。志在參加^_^
